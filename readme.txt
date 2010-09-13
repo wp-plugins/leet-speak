@@ -18,10 +18,6 @@ Translation of a post's text into leet speak can be accomplished by using one of
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Upload `leet-speak` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
