@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Leet Speak
  * Description: Simple Text/HTML to Leet-Speak translator that is fully customizable. Use either [leet][/leet] tags for targeted translations or a custom field ("leet"="1") to translate the entire post.
- * Version: 0.3 (&beta;)
+ * Version: 1.0
  * Author: Daniel Doezema
  * Author URI: http://dan.doezema.com
  */
